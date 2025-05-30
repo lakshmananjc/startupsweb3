@@ -2,7 +2,7 @@ import { Rocket, Globe, Users } from 'lucide-react';
 
 export default function About() {
   return (
-    <section id="about" className="py-20 bg-gray-50">
+    <section id="about" className="py-20 bg-cream">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold mb-4 text-pink-600">About us</h2>
