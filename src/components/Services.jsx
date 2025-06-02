@@ -28,7 +28,7 @@ const tabs = [
   {
     key: 'hackathon',
     label: 'Hackathon & Makeathon',
-    image: '/assets/images/hackathon.jpg' ,
+    image: '/assets/images/Hackathon.jpg' ,
     description: (
       <div className="text-gray-700 space-y-4 text-lg">
         <p>We organize and power high-impact Web3 hackathons like DevsHouse and Hackhub.</p>
