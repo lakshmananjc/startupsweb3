@@ -41,7 +41,7 @@ const tabs = [
         </ul>
         <p>Experience the innovation at Hackhub VIT and DevsHouse — photos below showcase the energy.</p>
       </div>
-    ),
+    ), 
     gallery: [
       '/assets/images/hackathon1.jpg',
       '/assets/images/hackathon2.jpg',
