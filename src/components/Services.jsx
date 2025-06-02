@@ -19,7 +19,7 @@ const tabs = [
           <li>Wallet integrations (MetaMask, WalletConnect, Coinbase Wallet)</li>
           <li>Security audits and testnet deployment</li>
         </ul>
-        <p>
+        <p> 
           Whether you're launching a DeFi protocol, NFT platform, or utility token, we turn your Web3 vision into a production-ready product.
         </p>
       </div>
