@@ -41,7 +41,7 @@ const Purpose = () => {
         </div>
 
         {/* Mission Subsection */}
-        <div className="bg-gray-50 rounded-2xl p-8 md:p-12">
+        <div className="bg-cream rounded-2xl p-8 md:p-12">
           <div className="text-center mb-12">
             <div className="flex items-center justify-center mb-4">
               <Target className="w-8 h-8 text-pink-600 mr-3" />

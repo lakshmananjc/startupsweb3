@@ -13,7 +13,9 @@ const Header = () => {
             <div className="hidden md:flex space-x-6">
               <a href="#about" className="hover:underline">ABOUT US</a>
               <a href="#purpose" className="hover:underline">OUR PURPOSE</a>
-              <a href="#services" className="hover:underline">WHAT WE DO</a>
+              <a href="#why-work-with-us" className="hover:underline">
+                What We Do
+              </a>
               <a href="#partnerships" className="hover:underline">STRATEGIC PARTNERSHIPS</a>
               <a href="#contact" className="hover:underline">CONTACT</a>
             </div>
