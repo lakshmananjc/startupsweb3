@@ -13,7 +13,7 @@ const Header = () => {
             <div className="hidden md:flex space-x-6">
               <a href="#about" className="hover:underline">ABOUT US</a>
               <a href="#purpose" className="hover:underline">OUR PURPOSE</a>
-              <a href="#why-work-with-us" className="hover:underline">
+              <a href="#services" className="hover:underline">
                 What We Do
               </a>
               <a href="#partnerships" className="hover:underline">STRATEGIC PARTNERSHIPS</a>
