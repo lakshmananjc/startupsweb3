@@ -456,7 +456,7 @@ const Services = () => {
             <div className="bg-gradient-to-br from-purple-700 to-pink-600 rounded-lg p-6">
               <div className="h-48 bg-gradient-to-br from-pink-400 to-purple-500 rounded-lg mb-4 flex items-center justify-center">
                 <img
-                  src="/assets/images/prototype.jpg"
+                  src="/assets/images/proto1.jpg"
                   alt="Blockchain Research"
                   className="w-full h-full object-cover rounded-lg"
                 />
